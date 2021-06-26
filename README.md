@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Android / iOS apps for an insurance company
+- 🌱 I’m currently learning SwiftUI & Compose
+- 👯 I’m looking to collaborate on more mobile apps
