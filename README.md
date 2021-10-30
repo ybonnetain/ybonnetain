@@ -1,6 +1,6 @@
 # H. e. l. l. o  🖖🏻
 
-Here is [webpage](https://ybonnetain.dev) for more insight about what I do
+Visit my [webpage](https://ybonnetain.dev) for more insight about what I do
 
 ![me](https://ybonnetain.dev/favicon-96x96.png)
 
